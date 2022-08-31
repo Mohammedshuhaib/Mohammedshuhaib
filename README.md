@@ -45,7 +45,7 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedshuhaib&theme=tokyonight_duo" alt="anasmullappally" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedshuhaib&theme=tokyonight_duo" alt="Mohammedshuhaib" /></p>
 
 </details>
   
@@ -56,7 +56,7 @@
 <p align="center">
     <a href="#">
 	    <img alt="Mohammedshuhaib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohammedshuhaib&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmullappally&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohammedshuhaib" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammedshuhaib&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohammedshuhaib" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -67,7 +67,7 @@
 
 ----
 
-<a href="https://github.com/Mohammedshuhaib"><img alt="Mohammedshuhaib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anasmullappally&custom_title=Mohammedshuhaib's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/Mohammedshuhaib"><img alt="Mohammedshuhaib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mohammedshuhaib&custom_title=Mohammedshuhaib's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
 
