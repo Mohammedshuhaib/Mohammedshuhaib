@@ -9,8 +9,8 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://anasmullappally.github.io/Anas_Mullappally/) [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black' />](mailto:anasmp0029@gmail.com) [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black' />](https://www.linkedin.com/in/anasmullappally/) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=black"/>](https://www.instagram.com/anas.mullappally/) [<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&color=black' />](https://www.facebook.com/anas.mullappally1) [<img src='https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&color=black' />](https://discord.com/users/5103)
-[<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=black' />](https://wa.me/918547700297)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/Mohammedshuhaib) [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black' />](mailto:Mohammedshuhaib100@gmail.com) [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black' />](https://www.linkedin.com/in/mohammed-shuhaib-982b5516b/) [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=black"/>](https://www.instagram.com/_m_h_d_shuhaib__/) [<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&color=black' />](https://www.facebook.com/monushuhaib.monu)
+[<img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=black' />](https://wa.me/8137947670)
 
 
 
@@ -45,7 +45,7 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anasmullappally&theme=tokyonight_duo" alt="anasmullappally" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammedshuhaib&theme=tokyonight_duo" alt="anasmullappally" /></p>
 
 </details>
   
@@ -55,8 +55,8 @@
 	
 <p align="center">
     <a href="#">
-	    <img alt="anasmullappally's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anasmullappally&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmullappally&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="anasmullappally" height="230px"/>
+	    <img alt="Mohammedshuhaib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohammedshuhaib&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anasmullappally&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Mohammedshuhaib" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -67,7 +67,7 @@
 
 ----
 
-<a href="https://github.com/anasmullappally"><img alt="anasmullappally's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anasmullappally&custom_title=anasmullappally's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/Mohammedshuhaib"><img alt="Mohammedshuhaib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anasmullappally&custom_title=Mohammedshuhaib's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
 
@@ -75,7 +75,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasmullappally&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="anasmullappally" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohammedshuhaib&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Mohammedshuhaib" /></a> </p>
 </details>
 	
 <div align="center">
